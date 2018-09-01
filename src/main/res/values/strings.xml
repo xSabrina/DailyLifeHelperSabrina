@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">DailyLifeHelper</string>
+    <string name="sort_me_text">Sort the List</string>
+    <string name="close_me_text">Close List </string>
+    <string name="delete_title">DELETE ALL</string>
+    <string name="button_text">ADD</string>
+    <string name="hint_text">Enter new task</string>
+
+    <string name="fridge_hint">Enter Value</string>
+    <string name="db_name">dailylifehelper_database.db</string>
+    <string name="pref_notification_summary">Allow Notifications</string>
+    <string name="pref_notification_title">Notifications</string>
+    <string name="pref_gps">pref_gps</string>
+    <string name="pref_notification">pref_notfication</string>
+    <string name="pref_gps_title">GPS</string>
+    <string name="pref_gps_summary">Use GPS</string>
+    <string name="pref_category_notification_title">Notification Settings</string>
+    <string name="pref_category_notification_key">pref_category_notification_key</string>
+    <string name="pref_category_gps_title">GPS Settings</string>
+    <string name="pref_category_gps_key">pref_category_gps_key</string>
+    <string name="prefs_header_notifications">Notifications</string>
+    <string name="prefs_header_notifications_summary">Settings for Notifications</string>
+    <string name="prefs_header_gps">GPS</string>
+    <string name="prefs_header_gps_summary">Settings for GPS</string>
+    <string name="settings_activity_label">Settings</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBEfJXy-V8gkfH-MQokAzHm_pXCzyHzyOs</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+
+    <string name="milkProduct">Milk Product</string>
+    <string name="meat">Meat</string>
+    <string name="herb">Herb</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="liquid">Liquid</string>
+
+    <string name="gram">gram</string>
+    <string name="pieces">pieces</string>
+    <string name="liter">liter</string>
+
+
+    <string-array name="category">
+        <item>Milk Product</item>
+        <item>Meat</item>
+        <item>Herb</item>
+        <item>Vegetable</item>
+        <item>Liquid</item>
+    </string-array>
+
+    <string-array name="milkProduct">
+        <item>Cheese</item>
+        <item>Whipped cream</item>
+        <item>Sour Cream</item>
+        <item>Yogurt</item>
+    </string-array>
+
+    <string-array name="meat">
+        <item>Bacon</item>
+        <item>Ham</item>
+        <item>Turkey Breast</item>
+        <item>Chicken Breast</item>
+    </string-array>
+
+    <string-array name="herb">
+        <item>Salt</item>
+        <item>Pepper</item>
+        <item>Thyme</item>
+    </string-array>
+
+    <string-array name="vegetable">
+        <item>Tomato</item>
+        <item>Paprika</item>
+        <item>Carrot</item>
+    </string-array>
+
+    <string-array name="liquid">
+        <item>Milk</item>
+        <item>Orange Juice</item>
+        <item>Olive Oil</item>
+        <item>Vinegar</item>
+        <item>Red Wine</item>
+        <item>White Wine</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="hint_text_shopping">Enter needed item</string>
+    <string name="button_generate_shopping">Generate Shoppinglist</string>
+
+    <string name="steps">Steps:</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="unit">Unit</string>
+    <string name="ingredientname">Ingredientname</string>
+    <string name="amount">amount</string>
+
+</resources>

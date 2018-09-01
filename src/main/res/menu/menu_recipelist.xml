@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/DeleteRecipes"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/delete_title"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/CloseRecipes"
+        android:icon="@drawable/ic_home"
+        android:title="@string/close_me_text"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/SortRecipes"
+        android:title="@string/sort_me_text"
+        app:showAsAction="never" />
+
+</menu>
